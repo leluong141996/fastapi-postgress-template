@@ -1,1 +1,3 @@
-# fastapi-postgress-template
+# fastapi-postgres-template
+
+FastAPI + PostgreSQL
